@@ -1,0 +1,17 @@
+ 
+images/food1.jpg food bread
+images/food2.jpg food pizza
+images/woofer1.jpg dog woofer pet
+images/woofer2.jpg dog woofer pet bed
+images/deathvalley.jpg landscape death valley
+images/beer1.jpg beer beverage
+images/canyonlands.jpg landscape canyonlands
+images/beach1.jpg beach hawaii landscape
+images/beer2.jpg beer drink
+images/airborne.jpg 
+images/hawaii1.jpg hawaii
+images/kabedon.jpg mexico kabedon
+images/woofer3.jpg woofer dog pet
+images/furniture1.jpg couch furniture
+images/hawaii sunset.jpg hawaii
+images/hawaii sunset.jpg hawaii landscape
